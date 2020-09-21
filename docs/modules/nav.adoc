@@ -1,2 +1,0 @@
-* xref:devops:index.adoc[Devops Tools]
-* xref:documentation:index.adoc[Documentation Tools]
