@@ -1,2 +1,0 @@
-* xref:devops/matrix.adoc[Devops Tools]
-* xref:documentation/matrix.adoc[Documentation Tools]

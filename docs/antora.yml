@@ -2,4 +2,4 @@ name: technological-matrix
 title: Technological Matrix
 version: 1.0.0
 nav:
-- modules/ROOT/nav.adoc
+- modules/nav.adoc
