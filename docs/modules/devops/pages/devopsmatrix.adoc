@@ -5,8 +5,8 @@ Liste outils et usage camptocamp
 == gopass
 
 implementation go du soft de gestion de password ``pass'', permet
-d’ecrire/lire des password dans une base partagee sur Git
-https://github.com/gopasspw/gopass
+d’ecrire/lire des password dans une base partagee sur Git +
+https://github.com/gopasspw/gopass +
 https://github.com/gopasspw/gopass/blob/master/docs/features.md
 
 == Summon
