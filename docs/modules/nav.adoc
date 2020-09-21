@@ -1,2 +1,2 @@
 * xref:devops:index.adoc[Devops Tools]
-* xref:documentation:matrix.adoc[Documentation Tools]
+* xref:documentation:index.adoc[Documentation Tools]
