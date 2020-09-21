@@ -192,8 +192,8 @@ https://docs.traefik.io/ https://docs.traefik.io/operations/dashboard/
 
 == Istio
 
-https://istio.io/latest/docs/setup/getting-started/
-https://istio.io/latest/docs/setup/additional-setup/config-profiles/
+https://istio.io/latest/docs/setup/getting-started/ +
+https://istio.io/latest/docs/setup/additional-setup/config-profiles/ +
 https://istio.io/latest/docs/setup/install/istioctl/
 
 == Openstack
