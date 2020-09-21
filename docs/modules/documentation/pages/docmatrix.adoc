@@ -1,8 +1,10 @@
 = Technological Matrix around Documentation Tools
 
-== Documentation Method & Tools
+== Documentation Methods 
 
 https://documentation.divio.com/
+
+== Documentation Tools
 
 === Hugo
 
@@ -11,17 +13,23 @@ https://gohugo.io/documentation/
 === projet Antora
 
 The multi-repository documentation site generator for tech writers who
-love writing in AsciiDoc. https://antora.org/
+love writing in AsciiDoc.
+
+https://antora.org/
+
 https://gitlab.com/antora/antora
+
 https://docs.antora.org/antora/2.3/asciidoc/section-headings/
+
 https://docs.antora.org/antora/2.3/asciidoc/examples/
 
 === Asciidoc
 
-https://powerman.name/doc/asciidoc https://asciidoctor.org/
+https://powerman.name/doc/asciidoc
+https://asciidoctor.org/
 https://asciidoctor.org/docs/asciidoc-writers-guide/
 
-== Pandoc
+=== Pandoc
 
 If you need to convert files from one markup format into another, pandoc
 is your swiss-army knife. Pandoc can convert between the following
