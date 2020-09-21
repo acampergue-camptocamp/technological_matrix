@@ -3,7 +3,9 @@
 This is the index page for the ROOT module of the technological matrix page
 
 Antora is designed to create sites that run anywhere, whether it be on a static web host or the local filesystem. However, some hosts offer “features” that mess with Antora’s output. GitHub Pages is one of those hosts.
+
 https://docs.antora.org/antora/2.3/publish-to-github-pages/
 
 https://docs.antora.org/antora-ui-default/
+
 https://antora.gitlab.io/antora-ui-default/
